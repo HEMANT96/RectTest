@@ -1,0 +1,19 @@
+export const MOBILE=
+[
+  {
+   ID:0,
+   Mobile:9675132096,
+  },
+  {
+   ID:1,
+   Mobile:9536343335
+  },
+  {
+    ID:2,
+    Mobile:9675132096,
+   },
+   {
+    ID:3,
+    Mobile:9536343335
+   }
+]
